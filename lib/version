@@ -1,0 +1,6 @@
+Version 0.3.4 MPC version - with metric request
+Log
+    New metrics
+    New Class: MultiPartyTrotter
+    Tested and runs
+    new code to only request Hamiltonian norms
